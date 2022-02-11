@@ -1,6 +1,12 @@
 {
   "author": "Lionel De Swarte--Danko",
   "description": "a project to help me learn about backend & APIs",
+  "keywords": [
+    "freecodecamp",
+    "API",
+    "backend",
+    "learning"
+  ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
